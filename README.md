@@ -1,10 +1,10 @@
-# Microgrooves-E 🎶
+# Microgrooves-E 
 
 **Microgrooves-E** is an open-source multimedia system designed to simulate audio and video playback/recording with polyphonic support and basic EQ features. Originally engineered with early mobile hardware constraints in mind.
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 1. Full Album Playback
 - Supports multiple tracks per album, sequential playback  
